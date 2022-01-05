@@ -13,3 +13,5 @@ var v1 = vAny;
 // let v2: string = vUnknown;
 console.log(vAny.method());
 //console.log(vUnknown.method());
+var str = "10";
+var num = str;
